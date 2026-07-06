@@ -48,7 +48,7 @@ The project demonstrates the complete FPGA design flow including RTL design, sim
 | Input | Push Buttons |
 | Output | Vivado VIO |
 | System Clock | 100 MHz |
-| Internal Clock | 2 Hz (Clock Divider) |
+| Internal Clock | 0.5 Hz (Clock Divider) |
 
 ---
 
@@ -124,7 +124,7 @@ F_{out} = \frac{F_{in}}{2 \times DIV}
 where:
 
 - \(F_{in}\) = 100 MHz
-- \(F_{out}\) ≈ 2 Hz
+- \(F_{out}\) ≈ 0.5 Hz
 - `DIV` is the counter limit.
 
 A **28-bit counter** is used because it can count up to the required division value for generating the slower clock.
