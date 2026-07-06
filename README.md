@@ -7,7 +7,6 @@
 ![Tool](https://img.shields.io/badge/Tool-Xilinx%20Vivado-orange)
 ![Simulation](https://img.shields.io/badge/Simulation-Passed-brightgreen)
 ![Timing](https://img.shields.io/badge/Timing-Closed-success)
-![License](https://img.shields.io/badge/License-MIT-red)
 
 </p>
 
