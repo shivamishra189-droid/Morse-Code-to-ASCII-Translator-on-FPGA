@@ -466,12 +466,6 @@ BITS Pilani, Goa Campus
 
 ---
 
-# License
-
-This project is released under the MIT License.
-
----
-
 ## Acknowledgements
 
 This project was developed as part of the Reconfigurable Computing course to demonstrate FPGA-based digital system design using Verilog HDL on the AMD Xilinx Zynq-7000 platform.
